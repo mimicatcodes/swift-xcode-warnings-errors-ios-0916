@@ -14,9 +14,12 @@ class ViewController: UIViewController {
         super.viewDidLoad()
     }
     
+    let favoriteActor = "Leo"
+    
     func unicorn() -> String {
         
         return "🦄 🦄 🦄 🦄"
+     
         
     }
     
